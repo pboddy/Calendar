@@ -83,4 +83,5 @@ calendR(year = 2020, month = 12,
         special.days = "weekend",
         pdf = T, 
         doc_name = "December_2020") 
-
+findMethods('calendR')
+calendR
